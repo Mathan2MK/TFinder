@@ -137,7 +137,7 @@ if chosen_tab == HOME:
     home_page()
 
 elif chosen_tab == APPLICATION:
-    allapp_page()
+    
 
 elif chosen_tab == RESOURCE:
     resource_page()
